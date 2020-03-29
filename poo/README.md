@@ -1,2 +1,0 @@
-# onmistack
-semana omnistack
